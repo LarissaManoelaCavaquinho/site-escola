@@ -2,3 +2,10 @@
   margin: 0;
   padding: 0;
 }
+
+.cabecalho {
+  background-color: salmon;
+  color: palegoldenrod;
+  display:flex;
+  justify-content: space-arround;
+}
